@@ -1,0 +1,4 @@
+docker desktop ->
+    docker-compose up -d
+    docker ps
+Kafka and Zookeeper should be listed as up

@@ -1,0 +1,34 @@
+# Maven / Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment / Secrets
+.env
+application-local.properties
+application-dev.properties
+
+# Kafka / Zookeeper (local data)
+/kafka-logs/
+/zookeeper/
+
+# Misc
+*.swp
+*.tmp
+
+### VS Code ###
+.vscode/
