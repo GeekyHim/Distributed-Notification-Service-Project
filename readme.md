@@ -1,4 +1,4 @@
-# 🚀 Distributed Notification Engine (Kafka + Spring Boot)
+# 🚀 Notiflux - Distributed-Ready Notification Engine (Kafka + Spring Boot)
 
 A **production-grade, event-driven notification system** built using **Spring Boot and Apache Kafka**.
 This project demonstrates scalable backend architecture with asynchronous processing, fault tolerance, and clean design patterns.
